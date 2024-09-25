@@ -1,5 +1,5 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(110, 106, 139);
     font-family: Bai Jamjuree;
 }
 
@@ -11,5 +11,5 @@ body{
 .cartao{
 
     margin: 1rem 1rem;
-    background-color: aquamarine;
+    background-color: rgb(139, 41, 82);
 }
